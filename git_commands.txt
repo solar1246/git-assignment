@@ -1,0 +1,21 @@
+git init – initializes a new Git repository
+
+git add . – stages all files
+
+git commit -m "message" – saves changes
+
+git branch feature – creates new branch
+
+git checkout feature – switches branch
+
+git checkout master – switches back
+
+git merge feature – merges branches
+
+git log --oneline --graph --all – shows history
+
+git reset --soft HEAD~1 – undo last commit
+
+git remote add origin <url> – connect to GitHub
+
+git push -u origin master – push to GitHub
